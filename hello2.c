@@ -1,4 +1,4 @@
-#include<stdio.h>
+<stdio.h>
 
 int main() {
 	printf("hello , open source programming\n");
